@@ -2,7 +2,7 @@
 
   <h1>Hi, I'm Alisson Civalski</h1>
 
-  <h3>Web Software Developer · AI Engineer · Data-Driven Systems Builder</h3>
+  <h3>Full Stack Developer · AI Engineer · Data-Driven Systems Builder</h3>
 
   <p>
     I build scalable software, intelligent automation systems, and data-driven products.
